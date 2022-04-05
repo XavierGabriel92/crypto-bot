@@ -1,1 +1,17 @@
-{}
+{
+  "binance": {
+    "production": {
+      // "apiKey": "UtdOBz1aOUVOCz5foTRjBm1w9OPKL1vwDncG1U7QyT5U9RkIdUqLkFJ5ImPs9TtP",
+      // "apiSecret": "5MtgYZ6aSpzYir3yjV5ld7wutxEsDjpJSZITAWQ7CIg0H35ICZd0aA1hRGsKoEpo"
+    },
+    "test": {
+      "httpsBase": "https://testnet.binance.vision",
+      "httpFutures": "https://testnet.binancefuture.com",
+      "apiKey": "6f8b2f8c4a534a0eb86b750dbd089d20256fbf938a525574e25f6fe68fdc2841",
+      "apiSecret": "158f535bca200da805e275eff3317c231c684f4d3cc1ae248678e96af9b8c5ad"
+    }
+  },
+  "alphaVantage": {
+    "apiKey": "SC08IUZXCIKB0Z47"
+  }
+}
